@@ -1,9 +1,9 @@
-#define BLYNK_TEMPLATE_ID "TMPL6ixOpklzj"
+#define BLYNK_TEMPLATE_ID "YOUR_BLYNK_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "esp now"
-#define BLYNK_AUTH_TOKEN "vOX6_R31pCCZXMvAJt4lUMMpS8Jufn9o"
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 
-char ssid[] = "Daffadandi";
-char pass[] = "Daffabulet";
+char ssid[] = "SSID";
+char pass[] = "pass";
 
 bool fetch_blynk_state = true;  //true or false
 
